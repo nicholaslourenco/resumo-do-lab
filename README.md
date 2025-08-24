@@ -37,7 +37,7 @@ Na nuvem, a forma como as empresas gastam em TI muda:
 
 ### Confiabilidade, Previsibilidade e Segurança
 
-* **Confiabilidade:** A nuvem oferece alta disponibilidade e resiliência, com acordos de nível de serviço (SLAs) que garantem o tempo de atividade.
+* **Confiabilidade:** A nuvem oferece alta disponibilidade e resiliência.
 * **Previsibilidade:** A nuvem oferece previsibilidade tanto em desempenho quanto em custo, permitindo otimizar o uso de recursos.
 * **Segurança:** É uma responsabilidade compartilhada. O provedor garante a **segurança da nuvem** (a infraestrutura), enquanto o cliente garante a **segurança na nuvem** (dados e aplicações).
 
@@ -63,3 +63,9 @@ Os serviços em nuvem são geralmente oferecidos em três modelos:
 ### Modelo de Responsabilidade Compartilhada
 
 Este modelo define claramente o que o provedor de nuvem e o cliente são responsáveis por proteger. O provedor é responsável pela infraestrutura física, enquanto o cliente é responsável por tudo o que coloca na nuvem, como dados, aplicações e configurações de rede.
+
+---
+
+### SLA (Service Level Agreement)
+
+Um **SLA** é um acordo formal entre o provedor de serviços de nuvem e o cliente que define os termos da qualidade do serviço. Ele especifica métricas importantes, como o tempo de atividade (`uptime`) garantido, o desempenho, a disponibilidade e os tempos de resposta. O SLA é crucial porque oferece uma garantia de confiabilidade e, em caso de não cumprimento, pode resultar em compensações financeiras para o cliente. O SLA reforça a confiança na relação entre o provedor e o cliente.
